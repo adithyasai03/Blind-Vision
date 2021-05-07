@@ -1,3 +1,5 @@
 # Blind-Vision
 # Outputs<h1> 
-![alternative text](architecture.jpg "Image Title")
+![](ss/architecture.jpg)
+![](ss/object_detection.jpg)
+![](ss/OCRandimage.jpg)
